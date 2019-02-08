@@ -1,5 +1,5 @@
-# dhd-2019-ics-script
-Converts the DHd2019 schedule into an ics-file (unofficial)
+# dhd-2019-ics-script (unofficial)
+Converts the DHd2019 schedule into an ics-file. This script was written independent from the DHd2019 and is unofficial. DHd2019 does not provide any support for the script. Same goes for the reliabilty and up-to-dateness of the output ics-file.
 
 This script parses the https://dhd2019.org/programm/ pages and returns all found events that are "valid" in one .ICS file that can be imported e.g. in Google Calendar.
 
