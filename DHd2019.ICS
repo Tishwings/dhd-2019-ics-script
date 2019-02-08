@@ -1,0 +1,654 @@
+BEGIN:VCALENDAR
+PRODID:PatrickToschka
+VERSION:2.0
+METHOD:PUBLISH
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+SUMMARY:Workshop Texterkennung mit Ocropy – Vom Bild zum Text 
+UID:220949.650234PatrickToschka
+DTSTART:20190325T090000
+DTEND:20190325T103000
+DTSTAMP:20180125T220949
+Location:P6
+DESCRIPTION: https://dhd2019.org/programm/mo/900-1030/workshop-264/"
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workshop Versionskontrolle mit Git 
+UID:220949.650266PatrickToschka
+DTSTART:20190325T090000
+DTEND:20190325T103000
+DTSTAMP:20180125T220949
+Location:P7
+DESCRIPTION: https://dhd2019.org/programm/mo/900-1030/workshop-205/"
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workshop eXist-db und VueJS für dynamische UI-Komponenten 
+UID:220949.650282PatrickToschka
+DTSTART:20190325T090000
+DTEND:20190325T103000
+DTSTAMP:20180125T220949
+Location:P10
+DESCRIPTION: https://dhd2019.org/programm/mo/900-1030/workshop-210/"
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workshop Barcamp: Digitales Publizieren zwischen Experiment und Etablierung 
+UID:220949.650296PatrickToschka
+DTSTART:20190325T090000
+DTEND:20190325T103000
+DTSTAMP:20180125T220949
+Location:P11|P12
+DESCRIPTION: https://dhd2019.org/programm/mo/900-1030/workshop-111/"
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workshop Text Mining mit Open Semantic (Desktop) Search – eine digitale Such- &amp; Annotationsumgebung für informationsgetriebene Fragestellungen 
+UID:220949.650309PatrickToschka
+DTSTART:20190325T090000
+DTEND:20190325T103000
+DTSTAMP:20180125T220949
+Location:P15
+DESCRIPTION: https://dhd2019.org/programm/mo/900-1030/workshop-235/"
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workshop Graphentechnologien in den Digital Humanities: Methoden und Instrumente zur Modellierung, Transformation, Annotation und Analyse 
+UID:220949.650323PatrickToschka
+DTSTART:20190325T090000
+DTEND:20190325T103000
+DTSTAMP:20180125T220949
+Location:Akademie
+DESCRIPTION: https://dhd2019.org/programm/mo/900-1030/workshop-266/"
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workshop Fortsetzung: Texterkennung mit Ocropy – Vom Bild zum Text 
+UID:220949.651541PatrickToschka
+DTSTART:20190325T110000
+DTEND:20190325T123000
+DTSTAMP:20180125T220949
+Location:P6
+DESCRIPTION: https://dhd2019.org/programm/mo/1100-1230/fortsetzung-workshop-264/"
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workshop Fortsetzung: Versionskontrolle mit Git 
+UID:220949.651558PatrickToschka
+DTSTART:20190325T110000
+DTEND:20190325T123000
+DTSTAMP:20180125T220949
+Location:P7
+DESCRIPTION: https://dhd2019.org/programm/mo/1100-1230/fortsetzung-workshop-205/"
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workshop Fortsetzung: eXist-db und VueJS für dynamische UI-Komponenten 
+UID:220949.651571PatrickToschka
+DTSTART:20190325T110000
+DTEND:20190325T123000
+DTSTAMP:20180125T220949
+Location:P10
+DESCRIPTION: https://dhd2019.org/programm/mo/1100-1230/fortsetzung-workshop-210/"
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workshop Fortsetzung Barcamp: Digitales Publizieren zwischen Experiment und Etablierung 
+UID:220949.651584PatrickToschka
+DTSTART:20190325T110000
+DTEND:20190325T123000
+DTSTAMP:20180125T220949
+Location:P11|P12
+DESCRIPTION: https://dhd2019.org/programm/mo/1100-1230/fortsetzung-workshop-111/"
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workshop Fortsetzung: Text Mining mit Open Semantic (Desktop) Search 
+UID:220949.651597PatrickToschka
+DTSTART:20190325T110000
+DTEND:20190325T123000
+DTSTAMP:20180125T220949
+Location:P15
+DESCRIPTION: https://dhd2019.org/programm/mo/1100-1230/fortsetzung-workshop-235/"
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workshop Fortsetzung: Graphentechnologie in den Digital Humanities 
+UID:220949.651612PatrickToschka
+DTSTART:20190325T110000
+DTEND:20190325T123000
+DTSTAMP:20180125T220949
+Location:Akademie
+DESCRIPTION: https://dhd2019.org/programm/mo/1100-1230/fortsetzung-workshop-266.html"
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workshop Texte digital annotieren und analysieren mit CATMA 6.0 
+UID:220949.653413PatrickToschka
+DTSTART:20190325T140000
+DTEND:20190325T153000
+DTSTAMP:20180125T220949
+Location:P6
+DESCRIPTION: https://dhd2019.org/programm/mo/1400-1530/workshop-142/"
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workshop Kollaboratives Arbeiten im Web mit GitHub 
+UID:220949.653431PatrickToschka
+DTSTART:20190325T140000
+DTEND:20190325T153000
+DTSTAMP:20180125T220949
+Location:P7
+DESCRIPTION: https://dhd2019.org/programm/mo/1400-1530/workshop-205-kollaboratives-arbeiten/"
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workshop Fortsetzung: eXist-db und VueJS für dynamische UI-Komponenten 
+UID:220949.653446PatrickToschka
+DTSTART:20190325T140000
+DTEND:20190325T153000
+DTSTAMP:20180125T220949
+Location:P10
+DESCRIPTION: https://dhd2019.org/programm/mo/1400-1530/fortsetzung-workshop-210/"
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workshop Distant Letters: Methoden und Praktiken zur quantitativen Analyse digitaler Briefeditionen 
+UID:220949.653459PatrickToschka
+DTSTART:20190325T140000
+DTEND:20190325T153000
+DTSTAMP:20180125T220949
+Location:P11
+DESCRIPTION: https://dhd2019.org/programm/mo/1400-1530/workshop-241/"
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workshop Vom gedruckten Werk zu elektronischem Volltext als Forschungsgrundlage 
+UID:220949.653482PatrickToschka
+DTSTART:20190325T140000
+DTEND:20190325T153000
+DTSTAMP:20180125T220949
+Location:P12
+DESCRIPTION: https://dhd2019.org/programm/mo/1400-1530/workshop-265/"
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workshop DHd 2019 Book of Abstracts Hackathon 
+UID:220949.653497PatrickToschka
+DTSTART:20190325T140000
+DTEND:20190325T153000
+DTSTAMP:20180125T220949
+Location:P15
+DESCRIPTION: https://dhd2019.org/programm/mo/1400-1530/book-of-abstracts-hackathon.html"
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workshop Usability-Testing für Softwarewerkzeuge in den Digital Humanities am Beispiel von Bildrepositorien 
+UID:220949.653511PatrickToschka
+DTSTART:20190325T140000
+DTEND:20190325T153000
+DTSTAMP:20180125T220949
+Location:Musiksaal
+DESCRIPTION: https://dhd2019.org/programm/mo/1400-1530/workshop-165/"
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workshop Qualitätsstandards und Interdisziplinarität in der Kuration audiovisueller (Sprach-)Daten 
+UID:220949.653528PatrickToschka
+DTSTART:20190325T140000
+DTEND:20190325T153000
+DTSTAMP:20180125T220949
+Location:GFG.02-521
+DESCRIPTION: https://dhd2019.org/programm/mo/1400-1530/workshop-132/"
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workshop Open Graph Space: Einsatz und Potenzial von Graphentechnologien in den digitalen Geisteswissenschaften 
+UID:220949.653552PatrickToschka
+DTSTART:20190325T140000
+DTEND:20190325T153000
+DTSTAMP:20180125T220949
+Location:Akademie
+DESCRIPTION: https://dhd2019.org/programm/mo/1400-1530/open-graph-space/"
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workshop Fortsetzung: Texte digital annotieren und analysieren mit CATMA 6.0 
+UID:220949.655189PatrickToschka
+DTSTART:20190325T160000
+DTEND:20190325T173000
+DTSTAMP:20180125T220949
+Location:P6
+DESCRIPTION: https://dhd2019.org/programm/mo/1600-1730/fortsetzung-workshop-142/"
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workshop Fortsetzung: Kollaboratives Arbeiten im Web mit GitHub 
+UID:220949.655208PatrickToschka
+DTSTART:20190325T160000
+DTEND:20190325T173000
+DTSTAMP:20180125T220949
+Location:P7
+DESCRIPTION: https://dhd2019.org/programm/mo/1600-1730/fortsetzung-workshop-205-kollaboratives-arbeiten/"
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workshop Fortsetzung: eXist-db und VueJS für dynamische UI-Komponenten 
+UID:220949.655224PatrickToschka
+DTSTART:20190325T160000
+DTEND:20190325T173000
+DTSTAMP:20180125T220949
+Location:P10
+DESCRIPTION: https://dhd2019.org/programm/mo/1600-1730/fortsetzung-workshop-210/"
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workshop Fortsetzung: Distant Letters 
+UID:220949.655241PatrickToschka
+DTSTART:20190325T160000
+DTEND:20190325T173000
+DTSTAMP:20180125T220949
+Location:P11
+DESCRIPTION: https://dhd2019.org/programm/mo/1600-1730/fortsetzung-workshop-241.html"
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workshop Fortsetzung: Vom gedruckten Werk zu elektronischem Volltext 
+UID:220949.655256PatrickToschka
+DTSTART:20190325T160000
+DTEND:20190325T173000
+DTSTAMP:20180125T220949
+Location:P12
+DESCRIPTION: https://dhd2019.org/programm/mo/1600-1730/fortsetzung-workshop-265.html"
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workshop Fortsetzung: DHd 2019 Book of Abstracts Hackathon 
+UID:220949.655272PatrickToschka
+DTSTART:20190325T160000
+DTEND:20190325T173000
+DTSTAMP:20180125T220949
+Location:P15
+DESCRIPTION: https://dhd2019.org/programm/mo/1600-1730/fortsetzung-workshop-185.html"
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workshop Fortsetzung: Usability-Testing für Softwarewerkzeuge 
+UID:220949.655289PatrickToschka
+DTSTART:20190325T160000
+DTEND:20190325T173000
+DTSTAMP:20180125T220949
+Location:Musiksaal
+DESCRIPTION: https://dhd2019.org/programm/mo/1600-1730/fortsetzung-workshop-165.html"
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workshop Fortsetzung: Qualitätsstandards in der Kuration audiovisueller (Sprach-)Daten 
+UID:220949.655305PatrickToschka
+DTSTART:20190325T160000
+DTEND:20190325T173000
+DTSTAMP:20180125T220949
+Location:GFG.02-521
+DESCRIPTION: https://dhd2019.org/programm/mo/1600-1730/fortsetzung-workshop-132.html"
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workshop Fortsetzung: Open Graph Space 
+UID:220949.655321PatrickToschka
+DTSTART:20190325T160000
+DTEND:20190325T173000
+DTSTAMP:20180125T220949
+Location:Akademie
+DESCRIPTION: https://dhd2019.org/programm/mo/1600-1730/fortsetzung-workshop-194.html"
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workshop Maschinelles Lernen lernen: Ein CRETA-Hackatorial zur reflektierten automatischen Textanalyse 
+UID:220949.801174PatrickToschka
+DTSTART:20190326T090000
+DTEND:20190326T103000
+DTSTAMP:20180125T220949
+Location:P6
+DESCRIPTION: https://dhd2019.org/programm/di/900-1030/workshop-183/"
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workshop Fortsetzung: Distant Letters 
+UID:220949.801200PatrickToschka
+DTSTART:20190326T090000
+DTEND:20190326T103000
+DTSTAMP:20180125T220949
+Location:P11
+DESCRIPTION: https://dhd2019.org/programm/di/900-1030/fortsetzung-workshop-241.html"
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workshop Automatic Text and Feature Recognition: Mit READ Werkzeugen Texte erkennen und Dokumente analysieren 
+UID:220949.801215PatrickToschka
+DTSTART:20190326T090000
+DTEND:20190326T103000
+DTSTAMP:20180125T220949
+Location:P12
+DESCRIPTION: https://dhd2019.org/programm/di/900-1030/workshop-108/"
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workshop Wissenschaftliches Bloggen mit de.hypotheses 
+UID:220949.801229PatrickToschka
+DTSTART:20190326T090000
+DTEND:20190326T103000
+DTSTAMP:20180125T220949
+Location:Musiksaal
+DESCRIPTION: https://dhd2019.org/programm/di/900-1030/wissenschaftliches-bloggen/"
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workshop Fortsetzung: Qualitätsstandards in der Kuration audiovisueller (Sprach-)Daten 
+UID:220949.801242PatrickToschka
+DTSTART:20190326T090000
+DTEND:20190326T103000
+DTSTAMP:20180125T220949
+Location:GFG.02-521
+DESCRIPTION: https://dhd2019.org/programm/di/900-1030/fortsetzung-workshop-132.html"
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workshop Fortsetzung: Graphentechnologie in den Digital Humanities 
+UID:220949.801254PatrickToschka
+DTSTART:20190326T090000
+DTEND:20190326T103000
+DTSTAMP:20180125T220949
+Location:Akademie
+DESCRIPTION: https://dhd2019.org/programm/di/900-1030/fortsetzung-workshop-266.html"
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workshop Fortsetzung: Maschinelles Lernen lernen 
+UID:220949.802411PatrickToschka
+DTSTART:20190326T110000
+DTEND:20190326T123000
+DTSTAMP:20180125T220949
+Location:P6
+DESCRIPTION: https://dhd2019.org/programm/di/1100-1230/fortsetzung-workshop-183.html"
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workshop Fortsetzung: Distant Letters 
+UID:220949.802428PatrickToschka
+DTSTART:20190326T110000
+DTEND:20190326T123000
+DTSTAMP:20180125T220949
+Location:P11
+DESCRIPTION: https://dhd2019.org/programm/di/1100-1230/fortsetzung-workshop-241.html"
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workshop Fortsetzung: Automatic Text and Feature Recognition 
+UID:220949.802440PatrickToschka
+DTSTART:20190326T110000
+DTEND:20190326T123000
+DTSTAMP:20180125T220949
+Location:P12
+DESCRIPTION: https://dhd2019.org/programm/di/1100-1230/fortsetzung-workshop-108.html"
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workshop Fortsetzung: Wissenschaftliches Bloggen 
+UID:220949.802452PatrickToschka
+DTSTART:20190326T110000
+DTEND:20190326T123000
+DTSTAMP:20180125T220949
+Location:Musiksaal
+DESCRIPTION: https://dhd2019.org/programm/di/1100-1230/fortsetzung-workshop-209.html"
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workshop Fortsetzung: Qualitätsstandards in der Kuration audiovisueller (Sprach-)Daten 
+UID:220949.802464PatrickToschka
+DTSTART:20190326T110000
+DTEND:20190326T123000
+DTSTAMP:20180125T220949
+Location:GFG.02-521
+DESCRIPTION: https://dhd2019.org/programm/di/1100-1230/fortsetzung-workshop-132.html"
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workshop Fortsetzung: Graphentechnologie in den Digital Humanities 
+UID:220949.802476PatrickToschka
+DTSTART:20190326T110000
+DTEND:20190326T123000
+DTSTAMP:20180125T220949
+Location:Akademie
+DESCRIPTION: https://dhd2019.org/programm/di/1100-1230/fortsetzung-workshop-266.html"
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eröffnung der DHd 2019
+UID:220949.802821PatrickToschka
+DTSTART:20190326T200000
+DTEND:20190326T220000
+DTSTAMP:20180125T220949
+Location:HZ1
+DESCRIPTION: https://dhd2019.org/programm/di/2000-2200-eröffnung-der-dhd-2019.html"
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KeynoteAvancierte Methoden der computer-gestützten ästhetischen Filmanalyse
+UID:220949.803125PatrickToschka
+DTSTART:20190326T210000
+DTEND:20190326T220000
+DTSTAMP:20180125T220949
+Location:HZ1
+DESCRIPTION: https://dhd2019.org/programm/di/keynote-flückiger/"
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session Objekt - Raum - Zeit
+UID:220950.069360PatrickToschka
+DTSTART:20190327T090000
+DTEND:20190327T103000
+DTSTAMP:20180125T220950
+Location:HZ3
+DESCRIPTION: https://dhd2019.org/programm/mi/900-1030/session-objekt-raum-zeit/"
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session Text und Visualisierung
+UID:220950.069404PatrickToschka
+DTSTART:20190327T090000
+DTEND:20190327T103000
+DTSTAMP:20180125T220950
+Location:HZ4
+DESCRIPTION: https://dhd2019.org/programm/mi/900-1030/session-text-und-visualisierung/"
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session Korpora
+UID:220950.069426PatrickToschka
+DTSTART:20190327T090000
+DTEND:20190327T103000
+DTSTAMP:20180125T220950
+Location:HZ5
+DESCRIPTION: https://dhd2019.org/programm/mi/900-1030/session-korpora/"
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Panel Zeitungen und Zeitschriften als multimodale, digitale Forschungsobjekte: Theorien und Methoden 
+UID:220950.070499PatrickToschka
+DTSTART:20190327T110000
+DTEND:20190327T123000
+DTSTAMP:20180125T220950
+Location:HZ3
+DESCRIPTION: https://dhd2019.org/programm/mi/1100-1230/panel-154/"
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session Analyse visueller Medien
+UID:220950.070532PatrickToschka
+DTSTART:20190327T110000
+DTEND:20190327T123000
+DTSTAMP:20180125T220950
+Location:HZ4
+DESCRIPTION: https://dhd2019.org/programm/mi/1100-1230/session-analyse-visueller-medien/"
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Panel Das Wissen in der 3D-Rekonstruktion 
+UID:220950.070546PatrickToschka
+DTSTART:20190327T110000
+DTEND:20190327T123000
+DTSTAMP:20180125T220950
+Location:HZ5
+DESCRIPTION: https://dhd2019.org/programm/mi/1100-1230/panel-238/"
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session Schrift und Zeichen
+UID:220950.071658PatrickToschka
+DTSTART:20190327T140000
+DTEND:20190327T153000
+DTSTAMP:20180125T220950
+Location:HZ3
+DESCRIPTION: https://dhd2019.org/programm/mi/1400-1530/session-schrift-und-zeichen/"
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Panel Wie es Euch gefällt? Perspektiven wissenschaftsgeleiteter Organisationsformen des Datenmanagements für die Geisteswissenschaften 
+UID:220950.071682PatrickToschka
+DTSTART:20190327T140000
+DTEND:20190327T153000
+DTSTAMP:20180125T220950
+Location:HZ4
+DESCRIPTION: https://dhd2019.org/programm/mi/1400-1530/panel-286/"
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session Text - Sprache - Wörter
+UID:220950.071696PatrickToschka
+DTSTART:20190327T140000
+DTEND:20190327T153000
+DTSTAMP:20180125T220950
+Location:HZ5
+DESCRIPTION: https://dhd2019.org/programm/mi/1400-1530/session-text-sprache-wörter/"
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session Sammlungen erschließen und vermitteln
+UID:220950.438696PatrickToschka
+DTSTART:20190328T090000
+DTEND:20190328T103000
+DTSTAMP:20180125T220950
+Location:HZ3
+DESCRIPTION: https://dhd2019.org/programm/do/900-1030/session-sammlungen-erschließen-und-vermitteln/"
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session Medialität jenseits von Text
+UID:220950.438724PatrickToschka
+DTSTART:20190328T090000
+DTEND:20190328T103000
+DTSTAMP:20180125T220950
+Location:HZ4
+DESCRIPTION: https://dhd2019.org/programm/do/900-1030/session-medialität-jenseits-von-text/"
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session Analyse bei Dramen und Romanen
+UID:220950.438740PatrickToschka
+DTSTART:20190328T090000
+DTEND:20190328T103000
+DTSTAMP:20180125T220950
+Location:HZ5
+DESCRIPTION: https://dhd2019.org/programm/do/900-1030/session-analyse-bei-dramen-und-romanen/"
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session Datenmodelle und Schnittstellen
+UID:220950.439467PatrickToschka
+DTSTART:20190328T110000
+DTEND:20190328T123000
+DTSTAMP:20180125T220950
+Location:HZ3
+DESCRIPTION: https://dhd2019.org/programm/do/1100-1230/session-datenmodelle-und-schnittstellen/"
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Panel Multimodale Anreicherung von Noteneditionen: Edirom und Datenbank 
+UID:220950.439485PatrickToschka
+DTSTART:20190328T110000
+DTEND:20190328T123000
+DTSTAMP:20180125T220950
+Location:HZ4
+DESCRIPTION: https://dhd2019.org/programm/do/1100-1230/panel-270/"
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session Texte und Strukturen
+UID:220950.439498PatrickToschka
+DTSTART:20190328T110000
+DTEND:20190328T123000
+DTSTAMP:20180125T220950
+Location:HZ5
+DESCRIPTION: https://dhd2019.org/programm/do/1100-1230/session-texte-und-strukturen/"
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session Digitale Theoriereflexion
+UID:220950.440565PatrickToschka
+DTSTART:20190328T140000
+DTEND:20190328T153000
+DTSTAMP:20180125T220950
+Location:HZ3
+DESCRIPTION: https://dhd2019.org/programm/do/1400-1530/session-digitale-theoriereflexion/"
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session (Inter-) Aktion im virtuellen Raum
+UID:220950.440582PatrickToschka
+DTSTART:20190328T140000
+DTEND:20190328T153000
+DTSTAMP:20180125T220950
+Location:HZ4
+DESCRIPTION: https://dhd2019.org/programm/do/1400-1530/session-inter-aktion-im-virtuellen-raum/"
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session Text-Analyse: Automatisierung und Standardisierung
+UID:220950.440595PatrickToschka
+DTSTART:20190328T140000
+DTEND:20190328T153000
+DTSTAMP:20180125T220950
+Location:HZ5
+DESCRIPTION: https://dhd2019.org/programm/do/1400-1530/session-text-analyse-automatisierung-und-standardisierung/"
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session Bestimmen und Identifizieren
+UID:220950.440608PatrickToschka
+DTSTART:20190328T140000
+DTEND:20190328T153000
+DTSTAMP:20180125T220950
+Location:HZ6
+DESCRIPTION: https://dhd2019.org/programm/do/1400-1530/session-bestimmen-und-identifizieren/"
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Postersession
+UID:220950.440964PatrickToschka
+DTSTART:20190328T160000
+DTEND:20190328T190000
+DTSTAMP:20180125T220950
+Location:HZ1
+DESCRIPTION: https://dhd2019.org/programm/do/postersession/"
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session Digital Humanities selbst
+UID:220950.589518PatrickToschka
+DTSTART:20190329T090000
+DTEND:20190329T103000
+DTSTAMP:20180125T220950
+Location:HZ3
+DESCRIPTION: https://dhd2019.org/programm/fr/900-1030/session-digital-humanities-selbst/"
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session Praxis Digitaler Edition
+UID:220950.589569PatrickToschka
+DTSTART:20190329T090000
+DTEND:20190329T103000
+DTSTAMP:20180125T220950
+Location:HZ4
+DESCRIPTION: https://dhd2019.org/programm/fr/900-1030/session-praxis-digitaler-edition/"
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Panel Deep Learning als Herausforderung für die digitale Literaturwissenschaft 
+UID:220950.589585PatrickToschka
+DTSTART:20190329T090000
+DTEND:20190329T103000
+DTSTAMP:20180125T220950
+Location:HZ5
+DESCRIPTION: https://dhd2019.org/programm/fr/900-1030/panel-156/"
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Panel Digital Humanities „from Scratch“ 
+UID:220950.590680PatrickToschka
+DTSTART:20190329T110000
+DTEND:20190329T123000
+DTSTAMP:20180125T220950
+Location:HZ3
+DESCRIPTION: https://dhd2019.org/programm/fr/1100-1230/panel-227/"
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session Technologien Digitaler Editionen
+UID:220950.590720PatrickToschka
+DTSTART:20190329T110000
+DTEND:20190329T123000
+DTSTAMP:20180125T220950
+Location:HZ4
+DESCRIPTION: https://dhd2019.org/programm/fr/1100-1230/session-technologien-digitaler-editionen/"
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session Text - Kommunikation - Diskurs
+UID:220950.590748PatrickToschka
+DTSTART:20190329T110000
+DTEND:20190329T123000
+DTSTAMP:20180125T220950
+Location:HZ5
+DESCRIPTION: https://dhd2019.org/programm/fr/1100-1230/session-text-kommunikation-diskurs/"
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Abschluss der DHd 2019
+UID:220950.591204PatrickToschka
+DTSTART:20190329T140000
+DTEND:20190329T153000
+DTSTAMP:20180125T220950
+Location:HZ1
+DESCRIPTION: https://dhd2019.org/programm/fr/1400-1530-abschluss-dhd-2019.html"
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KeynoteUnderstanding Social Structure and Behavior through Responsible Mixed-Methods Research: Bias Detection, Theory Validation, and Data Governance
+UID:220950.591665PatrickToschka
+DTSTART:20190329T143000
+DTEND:20190329T153000
+DTSTAMP:20180125T220950
+Location:HZ1
+DESCRIPTION: https://dhd2019.org/programm/fr/keynote-jana-diesner/"
+END:VEVENT
+END:VCALENDAR
